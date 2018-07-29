@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println("我好！");
 	System.out.println("大家好");
 	//主干代码
+	//分支代码
 }
 }
